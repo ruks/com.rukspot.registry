@@ -72,8 +72,8 @@
 
 <repositories>
         <repository>
-            <id>com.rukspot.httpclient-mvn-repo</id>
-            <url>https://github.com/ruks/mvn-repo</url>
+            <id>com.rukspot.registry-mvn-repo</id>
+            <url>https://raw.github.com/ruks/com.rukspot.registry/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
